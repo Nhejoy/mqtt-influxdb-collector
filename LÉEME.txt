@@ -1,0 +1,8 @@
+Este contenido es para aprender a almacenar datos en un servidor con influxdb.
+Se ha utilizado una raspberry para hacer la prueba y una fuente de datos mqtt. Para la prueba se utilizó un medidor Acrel que envía sus datos en json de forma intermitente.
+
+Se necesitan las siguientes librerías.
+
+
+
+InfluxDB de por sí tiene interfaz gráfica. Pero se puede eliminar.
